@@ -1,1 +1,3 @@
-## This code trains a Logistic Regression model on credit card fraud dataset. Will post results and data soon
+## Logistic Regression model on credit card fraud dataset
+
+# Will post results and data soon
